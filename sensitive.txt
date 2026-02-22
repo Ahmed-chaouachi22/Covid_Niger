@@ -1,0 +1,4 @@
+code
+Nationalite
+Perte_de_connaissance
+cancer (2 oui)
